@@ -1,2 +1,2 @@
 # Railway Reservation System
-A software developed using Java SE 
+A software developed using Java NetBeans
